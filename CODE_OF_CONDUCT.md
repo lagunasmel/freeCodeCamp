@@ -45,3 +45,5 @@ We reserve the right to ban an individual or group at any time and for any reaso
 ## Attribution
 Note, this Code of Conduct was written with assistance from the guidelines listed in the Contributor Covenant here, accessed on 4/23/21: 
 https://www.contributor-covenant.org/version/2/0/code_of_conduct/ 
+
+This Code of Conduct has been modified for educational purposes for the CS 464 (Open Source Projects) course at Oregon State University. 
